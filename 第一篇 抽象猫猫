@@ -43,3 +43,13 @@ These are found using small datasets, so we can easily curate the data and ensur
 For example, here we replace the model's notion of 'Doctor', with a new, more inclusive word. 这里很有意思，建议去网站看一下图会更直观，就是
 比起base model用的“doctor”这个概念，本文的模型用了S*，也就是我在想这个抽象出来的new words大概比自然语言更合model的胃口，让model能够生成出更准确的图片，也就
 达到了修正偏差的目的。
+
+Compositions 组合
+We can combine the new words in order to create scenes that draw on both concepts. 可以基于多种抽象成S*的概念来构造组合后的图像。比如，输入一组莫奈的画，
+输入一组闹钟，可以变成莫奈风格画出来的闹钟等等。
+Unfortunately, this doesn't yet work for relational prompts, so we can't show you our cat on a fishing trip with our clock.
+不过，这里也提及到，对于输入的text中，如果存在关系性的描述，是无法展现的。
+
+Downstream Models 下行模型（不过我觉得这部分简直是取代了ps）建议去看网站的图片。爆笑。
+Our pseudo-words work with downstream models. 
+For example, if you're tired of your old photographs, you can spice them up by inserting some new friends using Blended Latent Diffusion:
