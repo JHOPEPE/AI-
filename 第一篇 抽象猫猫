@@ -35,3 +35,11 @@ Learning to represent styles 这个模型可以用来学习风格
 Our method can be used to represent a wide array of concepts - including visual artistic styles. 
 In a sense, we can learn a pseudo-word that represents a specific artist or a new artistic movement, and mimic it in future creations.
 也就是说，喂了很多莫奈或者毕加索的话进去，以后就可以出现莫奈style的xxxx。我看到这里在想，这算不算是另一种意义的永生，画家、艺术家永远存活在二进制的世界中。
+
+Reducing Biases 修正偏差
+Text-to-image models suffer from biases inherited from the training data. 
+Rather than learning a new concept, we can find new embeddings for 'biased' concepts. 
+These are found using small datasets, so we can easily curate the data and ensure a fairer representation. 
+For example, here we replace the model's notion of 'Doctor', with a new, more inclusive word. 这里很有意思，建议去网站看一下图会更直观，就是
+比起base model用的“doctor”这个概念，本文的模型用了S*，也就是我在想这个抽象出来的new words大概比自然语言更合model的胃口，让model能够生成出更准确的图片，也就
+达到了修正偏差的目的。
