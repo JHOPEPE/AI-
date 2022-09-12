@@ -30,3 +30,8 @@ These embeddings are usually learned as part of the training process.
 In our work, we find new embeddings that represent specific, user-provided visual concepts. 重点就是在于，给用户提供地visual concept，再将其抽象成S*。
 These embeddings are then linked to new pseudo-words, which can be incorporated into new sentences like any other word. 
 In a sense, we are performing inversion into the text-embedding space of the frozen model. We're calling the process 'Textual Inversion'.
+
+Learning to represent styles 这个模型可以用来学习风格
+Our method can be used to represent a wide array of concepts - including visual artistic styles. 
+In a sense, we can learn a pseudo-word that represents a specific artist or a new artistic movement, and mimic it in future creations.
+也就是说，喂了很多莫奈或者毕加索的话进去，以后就可以出现莫奈style的xxxx。我看到这里在想，这算不算是另一种意义的永生，画家、艺术家永远存活在二进制的世界中。
