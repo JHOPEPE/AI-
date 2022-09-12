@@ -21,3 +21,12 @@ Text-to-image models对于通过自然语言指导图像的创造生成，提供
 尤其,我们发现一个简单的word embedding对于捕捉独特和多样的概念来说，是足够的。（我这里的理解是，一个embedding（S*）就足以捕捉输入图片的基本特性。） 
 我们将我们的方法与一种baseline作比较，最终确认，我们的方法可以更准确（原文是faithfully，这里我觉得翻译成中文来看，准确更合适。）
 地在多样的应用和任务中化用我们提供的概念。
+
+【how does it work】模型原理这一部分，就直接放原文，感觉怎么翻译都不如原文流畅。
+In the text-encoding stage of most text-to-image models, the first stage involves converting the prompt into a numerical representation. 
+This is typically done by converting the words into tokens, each equivalent to an entry in the model's dictionary. 
+These entries are then converted into an "embedding" - a continuous vector representation for the specific token. 
+These embeddings are usually learned as part of the training process. 
+In our work, we find new embeddings that represent specific, user-provided visual concepts. 重点就是在于，给用户提供地visual concept，再将其抽象成S*。
+These embeddings are then linked to new pseudo-words, which can be incorporated into new sentences like any other word. 
+In a sense, we are performing inversion into the text-embedding space of the frozen model. We're calling the process 'Textual Inversion'.
