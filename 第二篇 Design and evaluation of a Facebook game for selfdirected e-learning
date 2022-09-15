@@ -102,3 +102,89 @@ H4b: Individuals who have more fun in the Facebook game will be more satisfied w
 
 Participants may have more fun and enjoy the gaming element of the environment if they can easily and comfortably manipulate the Facebook game.
 H5: Individuals who consider the Facebook game to have better usability will have a higher level of fun in the Facebook game.
+
+METHODS
+-1
+An invitation e-mail was sent to all undergraduate and postgraduate students (N=22,260) 
+at a university in Hong Kong, inviting them to participate in the current study. The 
+sample included undergraduate students (N=73; 42 females; mean age=20.82; SD=1.81) 
+who were existing Facebook users.
+
+-2
+Game and instructional design
+(a) identifying stressors and how to handle stress, 
+(b) understanding the relationship between stress and coping and the consequence(s) of 
+depression, 
+(c) understanding goal-directed thinking, 
+(d) affirming existing strengths and acknowledging the concept of “self,” 
+(e) cognitive restructuring, 
+(f) advanced cognitive restructuring, 
+(g) understanding other people’s feelings, 
+(h) communication skills, 
+(i) conflict resolution (based on a problem-solving approach), and (j) anger management (Wong et al., 2012). 
+Players could determine the order of the missions. Some missions, however, were more challenging or required knowledge learned from other missions. 
+Those missions were locked until prerequisite missions were completed.
+
+When there was no energy left, the player could not advance the plot until the energy was recovered to prevent ineffective 
+learning. Fig. 4 shows the view of Ching Ching’s energy bar that the gamers saw. 
+If Ching Ching used too much of her energy, this bar would drop to zero, and she would need sleep.
+
+We navigated the players’ attention to several important concepts. 
+For instance, Ching Ching was able to move around in different maps and complete missions by talking to nonplayer characters. 
+Questions in these conversations were used to highlight important concepts (see Fig. 5). 
+By exploring different places and objects and playing various mini-games (see Fig. 6), players could also practice the skills repeatedly.
+The level system recorded the level and skills of the player. 
+The record was shared among the player’s friends who had also joined the game, establishing a leader board to create competition and motivation.
+
+-4 instruments
+A web-based questionnaire that assessed demographic information and feedback with closed and open-ended questions was self-administered after a 3-week study period. 
+The questionnaire first queried participants on gender, age, and Facebook ID. 
+The feedback questionnaire consisted of close-ended questions on a 7-point Likert scale (1=strongly disagree, 7=strongly agree) in five aspects: 
+(a) perceived learning effectiveness, 
+(b) user satisfaction, 
+(c) usability, 
+(d) fun, and 
+(e) Internet self-efficacy. 
+For (a), (b), (c), and (e), the questions were modified from existing scales of learning and understanding (Foster et al., 2011), user satisfaction (Chin, Diehl, & Norman, 1988), usability (Chiu et al., 2005), 
+and Internet self-efficacy (Eastin & LaRose, 2000), respectively. 
+The questions for (d) were self-constructed. 
+In the open-ended portion of the questionnaire, participants provided their comments and views of the online and social network DGBL.
+有必选的和开放回答的。
+
+We used structural equation modeling (SEM) implemented in partial least squares (PLS) for data analyses. 
+PLS is a second-generation regression method combining confirmatory factor analysis with linear regression, allowing us to simultaneously run measurement 
+and structural models. 
+The program used for the analysis was SmartPLS version 2.0.M3 (Ringle, Wende, & Will, 2005).
+
+RESULTS
+-1
+Table 1 summarizes the results of our measurement model, and Table 2 shows the intercorrelations with square roots of 
+Average Variances Extracted (AVEs) on the diagonal. 
+Our results demonstrated satisfactory item reliability, internal consistency, 
+convergent validity, and discriminant validity for all constructs in accordance with the 
+following conditions (Chin, 1998):
+我们的结果证明了在以下情况下令人满意的项目可靠性、内部一致性、所有构念的收敛效度和区分效度：
+(a) items’ factor loadings on corresponding constructs were higher than 0.7, showing acceptable item reliability; 
+(b) Cronbach’s alpha and composite reliability were greater than 0.7, showing acceptable internal consistency; 
+(c) the AVE of each construct was higher than 0.5, indicating satisfactory convergent validity; and 
+(d) the square root of the AVE of each construct was higher than its intercorrelation with other constructs, 
+providing evidence for adequate 
+discriminant validity.
+
+-2 structural model
+As shown in Fig. 7, the model accounted for 14% of the variance in U, 
+35% of the variance in F, 
+41% of the variance in perceived learning effectiveness, 
+and 72% of the variance in user satisfaction. 
+
+Six of the research hypotheses were supported. 
+Fun was a significant antecedent of both perceived learning effectiveness and user satisfaction, which supported H4a and H4b. 
+Internet self-efficacy, however, was significantly related to perceived learning effectiveness, but not user satisfaction.
+Thus, H1a was supported, whereas H1b was not. 
+In contrast, usability was significantly associated with user satisfaction, but not perceived learning effectiveness; 
+H2a was not supported, but H2b was supported.
+
+Moreover, the direct relationship between Internet self-efficacy and usability was significant, supporting H3. 
+The direct relationship between usability and fun was also significant, supporting H5. 
+
+In addition, two factors, age and gender, were introduced as controls on perceived learning effectiveness and user satisfaction but were not significant.
