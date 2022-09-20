@@ -24,3 +24,23 @@ As a result, the classifications have painted rather static pictures,
 where a hacker is someone possessing certain skillsets with either malicious or benign intentions.
 现有的研究对于黑客的分类太僵化，黑客就是技能 +善意/恶意。
 
+In this study, we seek to extend previous works by incorporating the knowledge transfer aspect into hacker classification.此处展示本篇文的提升之处。
+One of our main questions concerned whether a given hacker forum was indeed a place where junior hackers could acquire skill sets necessary
+for climbing up the membership ladder and become skilled hackers (Smith and Rupp 2002). 
+这里他们关注的问题很有意思，为什么要关心这个forum是否真的能够帮助初学者获得足够的知识呢？
+不过文章这里提及，作者还检验是否有guru hacker的存在，确保这个假设的四类存在，并且能够构成一个完整的生态系统。
+
+we could construct more complete profiles of hacker behaviors through the lens of “dynamic” knowledge exchanges seen invariably in online communities.
+我们刻意借助这个“动态的论坛系统”来观察线上社区中，实时存在的知识交换。这种依托于线上社区的“交换数据”能够更好地帮助我们构造用户的profile.
+【这里给我一个很好的idea，其实很多娱乐，更多的数据是埋藏在评论和互动中，所以这里情感分析其实对于用户的划分更有作用。】
+
+Some of these studies have come up with a variety of frameworks suitable for mining and identifying expert contributors
+in online forums (e.g., Liu et al. 2012). 
+However, so far, none seems to have analyzed the particular type of learning involved in hacking.
+
+For instance, during knowledge transfer, guru hackers act as knowledge providers by answering questions. 
+They also tend to stay longer in the forums. 
+Learner hackers seek to acquire knowledge continuously and, over time, become more and more inclined to answer questions. 
+This suggests a dynamic scenario—knowledge transfer behaviors change continuously as knowledge is accumulated.
+一种动态！
+
