@@ -2,3 +2,19 @@
 本质上很类似于project里面，结合用户的数据，来对用户进行segmentation。这一类在零售公司里很常见，但似乎在网络和论坛用户中少见，我希望能够研究一下小说和文娱方面的用户
 segmentation。
 文章分类的四种hacker：guru hackers, casual hackers, learning hackers, and novice hackers
+
+Guru hackers are knowledgeable and respectable. They usually share ideas and advice with others. 第一层级，给建议。
+Casual hackers tend to act as observers. They can be skilled hackers who show interest mainly in deriving usable information from the 
+forum. 第二层级，观察整合。
+Learning hackers are also expert hackers who utilize the forum basically for learning. They actively seek knowledge and tend to share more of it over
+time. 第三层级 学习者
+Novice hackers are new learners who typically join the forum for a short period. 第四层级 过客。
+【这里放到娱乐的社群也是一样的概念：第一层 创作者。第二层 各类bot整合推广。第三层 热爱者。第四层 随便看看。】
+Overall, it is found that hacker communities very much represent learning communities where meritocracy(精英体制？感觉更像是一种等级) is in place.
+
+Hacker . Hacker profile . Knowledge transfer .Online learning . Hacker ecosystem
+
+Studies have found that acquiring knowledge is a primary motivation many individuals to engage in hacking. 
+All this suggests that knowledge transfer in the form of knowledge provision or knowledge seeking plays an important role in identifying hackers.
+这里对于展示论文研究原因的部分，很值得重视。承上启下，点名因为hack让大家遭受日益损失，那么我们就需要一些特征帮助我们有效识别hacker。这里点出来，知识的传递是重点。
+
