@@ -51,6 +51,33 @@ sample interviews or surveys (Rogers 2006; Sarma and Lam
 2013; Barber 2001), our study is the first to use online data to
 examine the knowledge transfer aspects of hackers. 不是基于调查问卷，而是更真实的线上数据，动态的“知识传递”。
 
+The following sections are organized as follows. In Section 2, we briefly introduce important related literature. 
+In Section 3, we summarize the characteristics of our dataset.
+In Section 4, we explain the methodology we used to construct user profiles—a multistep process involving message orientations, user knowledge transfer patterns, and, eventually, user profile constructions. 这部分很重要，methodology，也就是如何理解knowledge的转变模式。
+In Section 5, we discuss different user profiles derivable on the basis of our dataset. 
+Finally, Section 6 summarizes our conclusion.
+
+PART 2 related works
+The present work continues this trend by seeking to understand hacker behaviors in online communities.【真的有点神奇，我会以为主要集中技术，没想到已经在理解hacker的行为了。】
+For a knowledge sharing community to thrive, both knowledge provision and knowledge acquisition incentives have to be present (Phang et al. 2009). 这里点出的是community的存在的前提。
+Our work classifies hacker types by making use of both components of knowledge sharing: knowledge contribution and knowledge acquisition.本文用的是knowledge contribution and knowledge acquisition.
+
+Reputation promotion (Wasko and Faraj 2005), identity confirmation or iden tity verification (Ma and Agarwal 2007), perceived belonging to a community or identity bond (Shih and Huang 2012), enhancing personal professional status (Hall and Graham 2004), reciprocity relationships (Bock et al. 2005) are among the motivations found to be behind users’ knowledge contributions. 【以上这些感觉都很值得一读，讲的应该都是这种网络参与社群行为的驱动分析】
+
+on the basis of their knowledge sharing patterns and the corresponding forum evolution pattern.而本文基于用户的sharing pattern和论坛的evolution pattern。
+【很重要，这里用了NLP技术，我就很想在做娱乐用户定位分析时，将NLP技术应用进来。】
+We use text-mining techniques to understand the knowledge sharing orientation of online posts.
+
+The knowledge transferred in our forum exhibits two types of knowledge exchanges: knowledge provision and knowledge acquisition.
+
+As knowledge has been found to be a critical element in hacking activities (Sarma and Lam 2013; Jordan and Taylor 1998; Holt and Kilger 2008), our hacker classification does not focus on hacker intentions but rather on the knowledge transfer patterns observed and the reputation levels of the hackers. 比起hacker的意图，更在意知识传播的模式和名声等级。
+其实本质上就是看她们是输出还是获取。
+
+Holt and Kilger (2008) distinguished between hackers who pro duce hacking knowledge and hacking tools/materials (makecrafters) and hackers who consume hacking knowledge and hacking tools/materials (techcrafters).这里有点消费和供给的意思啊。
+
+in contrast to many previous studies, we seek to understand a larger field—hacker behav iors—from the knowledge transfer perspective. Thus, the present study contributes to the broader field that aims to understand hacker behaviors.理解hacker的行为。
+
+
 
 
 
